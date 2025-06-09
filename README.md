@@ -30,4 +30,3 @@ Note:
 - The design is simple and user-friendly, with consistent theming (colors and padding).
 - Icons and assets are assumed to be available locally (e.g., `favicon.ico`).
 - The app is launched when the `Nlp_Project()` object is created at the end of the script.
-"""
