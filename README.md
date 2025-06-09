@@ -1,5 +1,5 @@
 # NLP-APP
-"""
+
 This Python script creates a GUI-based NLP application using Tkinter and the NLP Cloud API.
 
 Features:
